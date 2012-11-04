@@ -5,6 +5,8 @@ description: ""
 ---
 {% include JB/setup %}
 
-This site's mission:
+== This is an opinionated site
 
-* Show how to use things, not how things work.
+This site's mission is focussed:
+
+* Show _how to use_ things, not how things work.
