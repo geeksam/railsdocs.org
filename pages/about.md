@@ -14,3 +14,13 @@ This site's mission is focussed and opinionated. It will
     that shows app developers how to use its API;
 * **focus on how to use things**, not how things work;
 * **link to great resources**, rather than re-invent the wheel.
+
+
+## How This Site Works ##
+
+[I](http://www.weblaws.org/robb/about) develop this site with help from
+[Github Pages](http://pages.github.com),
+[Jekyll](http://jekyllrb.com),
+[Jekyll Bootstrap](http://jekyllbootstrap.com), and
+[Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+
