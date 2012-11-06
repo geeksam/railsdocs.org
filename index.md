@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rails Reference
-tagline: All on one page for now
+tagline: A TOC for Rails API Docs
 ---
 {% include JB/setup %}
 

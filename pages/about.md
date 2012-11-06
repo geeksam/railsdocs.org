@@ -13,8 +13,8 @@ It ought to be useful for others too.
 
 ## I'm a Rails App Developer ##
 
-I may not be the best Rails developer, but I earn a living doing it,
-and it's important to me to have tools that match my working style.
+I spend my days working with Rails and so it's important to me to have
+tools that match my working style.
 
 * Robb Shecter <robb@railsdocs.org>
 * [Twitter](http://twitter.com/dogweather)
@@ -27,11 +27,11 @@ and it's important to me to have tools that match my working style.
 
 It will;
 
+* **focus on how to use things** from an app developer's perspective;
 * **be extremely quick and responsive**, because otherwise the 
     flow of work is interrupted;
 * **be opensource and trivially easy to contribute to**;
 * **link to the best docs first**;
-* **focus on how to use things**, not how things work;
 * **link to great resources**, rather than re-invent the wheel.
 
 
