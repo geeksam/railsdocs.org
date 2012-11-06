@@ -20,6 +20,14 @@ Pull Request.
 The one real content page for the time being is
 [index.md in the root directory of the gh-pages branch](https://github.com/dogweather/railsdocs.org/blob/gh-pages/index.md).
 
+
+## Planned: Automatic _Edit this Page_ Links ##
+
+I'm working on the Jekyll/liquid programming to have each page link to
+its location in the Github repository. This will make it as easy to
+edit as a wiki.
+
+
 ## Questions? ##
 
 Drop me a line at robb@railsdocs.org.
