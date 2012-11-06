@@ -2,7 +2,7 @@
 layout: page
 title: "FAQ"
 description: ""
-group: navigation
+group: ""
 ---
 {% include JB/setup %}
 
