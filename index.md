@@ -19,6 +19,12 @@ tagline: A TOC for Rails API Docs
 <small>validates :acceptance, validates :presence...</small>
 
 
+## Controllers ##
+
+[Redirects](http://rubydoc.info/docs/rails/ActionController/Redirecting)  
+<small>redirect_to hash, record, string, proc...</small>
+
+
 ## Important Classes ##
 [DateTime](http://api.rubyonrails.org/classes/DateTime.html)  
 <small>beginning_of_day, past?, in_time_zone...</small>
