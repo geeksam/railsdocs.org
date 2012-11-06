@@ -8,17 +8,30 @@ group: navigation
 
 ## I made this site because I needed it ##
 
-It ought to be useful for others too. Google doesn't always give the
-best answer first. Features come in via mixins, modules, and sometimes
-hard-to-determine places, so it's not clear where to look. Many links
-in the API are
+All the hard-to-find APIs in one place. I thought it'd be useful for
+others too.
+
+Google doesn't always give the best answer first.  
+
+I've been using Rails for years but still learn about methods I had no
+idea existed - usually via offhand SO comments.
+
+Sometimes I wished I had something a little more succint than the
+[Guides](http://guides.rubyonrails.org/index.html), yet would show a
+feature's _full_ api.
+
+Features' api docs are often
+[tucked away in hard-to-find places](http://stackoverflow.com/questions/2094678/rails-3-0-actioncontrollerbase-render)
+because they're brought in via mixins or modules.
+
+Often, links in the api are
 [dead ends](http://api.rubyonrails.org/classes/ActionView/Helpers/ActiveModelHelper.html)
 or
 [very oddly formatted thus hiding the content](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
 due to quirks of the docs generator.
 
-I kept having a sense of deja vu; "I know there's a great page that
-lists all of these in one place, but I forget where."
+I kept having a sense of deja vu; "I know there's a great page for
+XYZ, but I forget where."
 
 
 ## I'm a Rails App Developer ##
@@ -38,8 +51,8 @@ tools that match my working style.
 It will;
 
 * **focus on how to use things** from an app developer's perspective;
-* **be extremely quick and responsive**, because otherwise the 
-    flow of work is interrupted;
+* **be extremely quick and responsive** so that the flow of work isn't
+    interrupted;
 * **be opensource and trivially easy to contribute to**;
 * **link to the best docs first**;
 * **link to great resources**, rather than re-invent the wheel.

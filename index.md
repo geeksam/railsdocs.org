@@ -6,19 +6,25 @@ tagline: A TOC for Rails API Docs
 {% include JB/setup %}
 
 ## Models ##
+[Persistence](http://api.rubyonrails.org/classes/ActiveRecord/Persistence.html)  
+<small>save, new_record?, toggle...</small>
+
+[Migrations](http://api.rubyonrails.org/classes/ActiveRecord/Migration.html)  
+<small>add_index, rename_table, add_column...</small>
 
 [Associations](http://api.rubyonrails.org/classes/ActiveRecord/Associations/ClassMethods.html)  
 <small>belongs_to, has_one, has_many...</small>
-
-
-## Controllers ##
 
 [Validations](http://api.rubyonrails.org/classes/ActiveModel/Validations/ClassMethods.html)  
 <small>validates :acceptance, validates :presence...</small>
 
 
-## RSpec ##
+## Important Classes ##
+[DateTime](http://api.rubyonrails.org/classes/DateTime.html)  
+<small>beginning_of_day, past?, in_time_zone...</small>
 
+
+## RSpec ##
 [Core Matchers](https://www.relishapp.com/rspec/rspec-expectations/v/2-11/docs/built-in-matchers)  
 <small>should, should be, should include...</small>
 
