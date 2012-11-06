@@ -1,9 +1,14 @@
 ---
 layout: page
 title: Rails Reference
-tagline: All on one page
+tagline: All on one page for now
 ---
 {% include JB/setup %}
+
+## Models ##
+
+[Associations](http://api.rubyonrails.org/classes/ActiveRecord/Associations/ClassMethods.html)  
+<small>belongs_to, has_one, has_many...</small>
 
 
 ## Controllers ##
@@ -18,4 +23,9 @@ tagline: All on one page
 <small>should, should be, should include...</small>
 
 [Rails](https://www.relishapp.com/rspec/rspec-rails/docs)  
-<small>request specs, model specs, controller specs...</small>
+<small>Request specs, model specs, controller specs...</small>
+
+
+## Git ##
+[Cheat Sheet](http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png)  
+<small>Revert, branch, update... </small>
