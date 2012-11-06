@@ -29,3 +29,5 @@ tagline: A TOC for Rails API Docs
 ## Git ##
 [Cheat Sheet](http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png)  
 <small>Revert, branch, update... </small>
+
+

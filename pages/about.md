@@ -8,7 +8,17 @@ group: navigation
 
 ## I made this site because I needed it ##
 
-It ought to be useful for others too.
+It ought to be useful for others too. Google doesn't always give the
+best answer first. Features come in via mixins, modules, and sometimes
+hard-to-determine places, so it's not clear where to look. Many links
+in the API are
+[dead ends](http://api.rubyonrails.org/classes/ActionView/Helpers/ActiveModelHelper.html)
+or
+[very oddly formatted thus hiding the content](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
+due to quirks of the docs generator.
+
+I kept having a sense of deja vu; "I know there's a great page that
+lists all of these in one place, but I forget where."
 
 
 ## I'm a Rails App Developer ##
