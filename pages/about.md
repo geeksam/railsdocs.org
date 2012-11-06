@@ -8,10 +8,7 @@ group: navigation
 
 ## I made this site because I needed it ##
 
-All the hard-to-find APIs in one place. I thought it'd be useful for
-others too.
-
-Google doesn't always give the best answer first.  
+Because Google doesn't always give the best answer first.  
 
 I've been using Rails for years but still learn about methods I had no
 idea existed - usually via offhand SO comments.
