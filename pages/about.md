@@ -17,11 +17,11 @@ Sometimes I wished I had something a little more succint than the
 [Guides](http://guides.rubyonrails.org/index.html), yet would show a
 feature's _full_ api.
 
-Features' api docs are often
+API docs are often
 [tucked away in hard-to-find places](http://stackoverflow.com/questions/2094678/rails-3-0-actioncontrollerbase-render)
 because they're brought in via mixins or modules.
 
-Often, links in the api are
+Links in the API are often
 [dead ends](http://api.rubyonrails.org/classes/ActionView/Helpers/ActiveModelHelper.html)
 or
 [very oddly formatted thus hiding the content](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
