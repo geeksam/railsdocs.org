@@ -8,13 +8,14 @@ group: navigation
 
 ## I made this site because I needed it ##
 
-If it's useful me, it ought to be useful for others too.
+It ought to be useful for others too.
 
 
 ## I'm a Rails App Developer ##
 
 I may not be the best Rails developer, but I earn a living doing it,
-and it's important to me to have good tools.
+and it's important to me to have tools that match my working style.
+
 * Robb Shecter <robb@railsdocs.org>
 * [Twitter](http://twitter.com/dogweather)
 * [App.net](http://alpha.app.net/dogweather)

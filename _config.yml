@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : RailsDocs.org
-tagline: Table of Contents for Ruby on Rails
+title : railsdocs.org
+tagline: Rails API for App Developers
 author : 
   name : Robb Shecter
   url : http://www.weblaws.org/robb/about

@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Rails Docs
+title: Rails Reference
 tagline: All on one page
 ---
 {% include JB/setup %}
+
+
+## Controllers ##
+
+[Validations](http://api.rubyonrails.org/classes/ActiveModel/Validations/ClassMethods.html)  
+<small>validates :acceptance, validates :presence...</small>
 
 
 ## RSpec ##
