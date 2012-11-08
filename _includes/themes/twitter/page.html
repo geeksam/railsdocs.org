@@ -1,5 +1,17 @@
 <div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+  <h1>
+    {{ page.title }} {% if page.tagline %} 
+    <small>{{ page.tagline }}</small>{% endif %}
+    {% if page.filename %}
+      <!-- 
+        -- Generate the link to the file in the Github
+        -- repo. TODO: Remove the need for the
+        -- page.filename attribute.
+        -->
+      <a href="https://github.com/dogweather/railsdocs.org/blob/gh-pages/{{page.filename}}"
+    class="btn pull-right"><i class="icon-edit"></i> Edit this page</a>
+    {% endif %}
+  </h1>
 </div>
 
 <div class="row">
@@ -12,5 +24,8 @@
     <div class="well">
       {% include JB/comments %}
     </div>
+  </div>
+
+  <div class="span4">
   </div>
 </div>

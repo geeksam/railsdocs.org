@@ -2,8 +2,10 @@
 layout: page
 title: Rails Reference
 tagline: A TOC for the Docs
+filename: index.md
 ---
 {% include JB/setup %}
+
 
 ## Models ##
 [Persistence](http://api.rubyonrails.org/classes/ActiveRecord/Persistence.html)  
