@@ -6,13 +6,12 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## I made this site because I needed it ##
+## This site exists because ##
 
-Because Google doesn't always give the best answer first.  
+Google doesn't always give the best answer first.  
 
-Sometimes I wished I had something more succint than the
-[Guides](http://guides.rubyonrails.org/index.html), yet would show a
-feature's _full_ api.
+Sometimes it's nice to have something more succint than the
+[Guides](http://guides.rubyonrails.org/index.html), yet shows a feature's _full_ api.
 
 API docs are often
 [tucked away in hard-to-find places](http://stackoverflow.com/questions/2094678/rails-3-0-actioncontrollerbase-render)
@@ -23,9 +22,6 @@ Links in the API are often
 or
 [very oddly formatted thus hiding the content](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
 due to quirks of the docs generator.
-
-I kept having a sense of deja vu; "I know there's a great page for
-XYZ, but I forget where."
 
 
 ## I'm a Rails App Developer ##
@@ -54,7 +50,7 @@ It will;
 
 ## This is a precompiled static site ##
 
-[I](http://www.weblaws.org/robb/about) develop this site with help from
+It was developed with help from
 [Github Pages](http://pages.github.com),
 [Jekyll](http://jekyllrb.com),
 [Jekyll Bootstrap](http://jekyllbootstrap.com), and
