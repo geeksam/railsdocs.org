@@ -6,8 +6,11 @@ filename: index.md
 ---
 {% include JB/setup %}
 
-<div class="alert alert-info">
-  <strong>These are reference docs.</strong> Looking for <a href="/pages/tutorials.html">tutorials and guides</a>?
+<div class="alert alert-info" style="float: right; width: 40%;">
+  <strong>Heads up!</strong>
+  These are reference docs.
+  <!-- How do we do an internal page link in Jekyll? -->
+  Looking for <a href="/pages/tutorials.html">tutorials and guides</a>?
 </div>
 
 
