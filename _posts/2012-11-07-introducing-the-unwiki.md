@@ -49,16 +49,18 @@ into any web page. Putting it all together would give me the benefits
 of a wiki w/out the usual problems.
 
 
-## I added wiki-like features to railsdocs.org ##
+## I'm adding wiki features to the Jekyll-Bootstrap theme ##
 
-I've been adding in the features that makes wikis friendly; and
-hooking it all up to Github to do the work. For example, each page has
-a familiar-looking button bar. Here's [Tutorials](/pages/tutorials.html):
+I'm putting in the features that makes wikis friendly and hooking them
+all up to Github to do the work. For example, each page has a
+familiar-looking button bar. Here's
+[Tutorials](/pages/tutorials.html):
 
 ![Edit Button](/images/unwiki-button-bar-screenshot.png)
 
-The `Edit` button links directly to a Github web editor with the page's text.
-If you've already created your free Github account and are logged in,
+The `Edit` button links directly to a Github web editor opened with
+the page's text. If you've already created your free Github account
+and are logged in,
 [this is what you'll see](https://github.com/dogweather/railsdocs.org/edit/gh-pages/pages/tutorials.md):
 
 ![Page Editor](/images/edit-window-screenshot.png)
@@ -70,7 +72,8 @@ Save will submit the changes to an editor for review. (This is called
 
 This is an ongoing
 [open source](https://github.com/dogweather/railsdocs.org/tree/gh-pages)
-experiment. I'll post again with update after seeing how it runs.
+experiment. I'll post again with update after watching it run for a
+while.
 
 
 
