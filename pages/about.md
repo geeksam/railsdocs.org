@@ -10,10 +10,7 @@ group: navigation
 
 Because Google doesn't always give the best answer first.  
 
-I've been using Rails for years but still learn about methods I had no
-idea existed - usually via offhand SO comments.
-
-Sometimes I wished I had something a little more succint than the
+Sometimes I wished I had something more succint than the
 [Guides](http://guides.rubyonrails.org/index.html), yet would show a
 feature's _full_ api.
 
