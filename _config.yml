@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:title 
+permalink: /blog/:year/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : railsdocs.org
-tagline: Rails API for App Developers
+tagline: Rails Reference for App Developers
 author : 
   name : Robb Shecter
   url : http://www.weblaws.org/robb/about
