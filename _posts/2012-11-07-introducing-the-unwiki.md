@@ -43,8 +43,10 @@ contributors.
 
 And Github Pages has
 [Jekyll](https://help.github.com/articles/using-jekyll-with-pages).
-And Jekyll has [Jekyll Bootstrap](http://jekyllbootstrap.com/).
-Putting it all together would give me a wiki w/out the usual problems.
+And Jekyll has [Jekyll Bootstrap](http://jekyllbootstrap.com/). For
+discussion and comments, there's Disqus and others that can be dropped
+into any web page. Putting it all together would give me the benefits
+of a wiki w/out the usual problems.
 
 
 ## I added wiki-like features to railsdocs.org ##
@@ -66,9 +68,11 @@ immediately live. There's a publication workflow in place. Clicking
 Save will submit the changes to an editor for review. (This is called
 "submitting a pull request" in Github lingo.)
 
-This is an ongoing experiment. I'll post again once I've seen it work
-a while.
+This is an ongoing
+[open source](https://github.com/dogweather/railsdocs.org/tree/gh-pages)
+experiment. I'll post again with update after seeing how it runs.
 
 
 
 posted by [Robb](http://www.weblaws.org/robb/about), robb@weblaws.org.
+Twitter: @dogweather. ADN: @dogweather.
