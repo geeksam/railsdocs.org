@@ -57,9 +57,8 @@ a:hover {
 	float:left;
 }
 .tag_box a {
-	font-size: 90%;
 	font-weight: bold;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	padding: 3px 6px;
 	margin: 2px;
 	background: #ddd;
