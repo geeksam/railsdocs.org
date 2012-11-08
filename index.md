@@ -6,6 +6,11 @@ filename: index.md
 ---
 {% include JB/setup %}
 
+<div class="alert alert-info">
+  <strong>These are reference docs.</strong> Looking for <a href="/pages/tutorials.html">tutorials and guides</a>?
+</div>
+
+
 
 ## Models ##
 [Persistence](http://api.rubyonrails.org/classes/ActiveRecord/Persistence.html)  
