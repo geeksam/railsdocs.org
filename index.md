@@ -7,6 +7,10 @@ description: "A community-edited list of the most useful API docs."
 ---
 {% include JB/setup %}
 
+
+
+## Models ##
+
 <div class="alert alert-success" style="float: right; width: 40%;">
   <h4>Heads up!</h4>
   These are reference docs.
@@ -15,8 +19,6 @@ description: "A community-edited list of the most useful API docs."
 </div>
 
 
-
-## Models ##
 [Persistence](http://api.rubyonrails.org/classes/ActiveRecord/Persistence.html)  
 <small>save, new_record?, toggle...</small>
 
@@ -28,6 +30,7 @@ description: "A community-edited list of the most useful API docs."
 
 [Validations](http://api.rubyonrails.org/classes/ActiveModel/Validations/ClassMethods.html)  
 <small>validates :acceptance, validates :presence...</small>
+
 
 
 ## Controllers ##

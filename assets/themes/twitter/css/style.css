@@ -1,3 +1,25 @@
+/*
+ * Red    = #9c3521
+ * Green  = #187237
+ * Brown  = #9c6021
+ * Purple = #841c4a
+ */
+
+html, body, .navbar, .navbar-inner {
+  background: #f7f7f7;
+}
+
+p, li {
+	color: #595959;
+	font-family: Palatino,Georgia,"Times New Roman",Times,serif;
+	font-size: 16px;
+	line-height: 22.4px;
+}
+
+.nav > li {
+	font-family: "News Cycle", "Arial Narrow Bold", sans-serif;
+}
+
 .alert > h4 {
 	margin-bottom: 0.4em;
 	color: inherit;
@@ -18,4 +40,59 @@ a:hover {
 
 .alert > a:hover {
 	color: #9c3521;
+}
+
+/* tag_box ======================================================== */
+
+.tag_box {
+	list-style:none;
+	margin:0;
+	padding:1px 0 ;
+	overflow:hidden;
+}
+.tag_box li {
+	line-height:28px;
+}
+.tag_box.inline li {
+	float:left;
+}
+.tag_box a {
+	padding: 3px 6px;
+	margin: 2px;
+	background: #ce8274;
+	color:#65190b;
+	border-radius: 3px;
+	text-decoration:none;
+	padding: 5px;
+}
+.tag_box a span{
+	vertical-align:super;
+	font-size:0.8em;
+}
+.tag_box a.active {
+	background:#57A957;
+	border:1px solid #4C964D;
+	color:#FFF;
+}
+.tag_box a:hover {
+	background: #65190b;
+	color:#ce8274;	
+}
+
+
+
+.date {
+	margin-bottom: 1em;
+}
+
+h2 {
+	margin-top: 0.5em;
+}
+
+h2:first-child {
+	margin-top: 0;
+}
+
+h4 {
+	margin-top: 0.5em;
 }
