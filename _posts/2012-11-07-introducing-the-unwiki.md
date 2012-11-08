@@ -10,8 +10,7 @@ tags: [jekyll, github]
 
 ## A standard wiki wasn't going to cut it ##
 
-When I had the idea for railsdoc.org, I couldn't figure out how to get
-everything I wanted:
+I couldn't figure out how to get everything I wanted:
 
 * Easy for anyone to edit
 * Easy to manage and prevent "edit wars"
