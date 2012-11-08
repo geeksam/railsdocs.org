@@ -1,0 +1,12 @@
+.alert > h4 {
+	margin-bottom: 0.4em;
+	color: inherit;
+}
+
+a {
+	color: #9c3521;
+}
+
+a:hover {
+	color: #0f4620;
+}
