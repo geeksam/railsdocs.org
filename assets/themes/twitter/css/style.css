@@ -8,5 +8,14 @@ a {
 }
 
 a:hover {
-	color: #0f4620;
+	color: #187237;
+}
+
+.alert > a {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.alert > a:hover {
+	color: #9c3521;
 }
