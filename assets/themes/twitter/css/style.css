@@ -20,6 +20,11 @@ p, li {
 	font-family: "News Cycle", "Arial Narrow Bold", sans-serif;
 }
 
+.btn {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
 .alert > h4 {
 	margin-bottom: 0.4em;
 	color: inherit;
@@ -32,6 +37,7 @@ a {
 a:hover {
 	color: #187237;
 }
+
 
 .alert > a {
 	color: inherit;
