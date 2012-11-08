@@ -3,6 +3,7 @@ layout: page
 title: Rails Reference
 tagline: A TOC for the Docs
 filename: index.md
+description: "A community-edited list of the most useful API docs."
 ---
 {% include JB/setup %}
 
