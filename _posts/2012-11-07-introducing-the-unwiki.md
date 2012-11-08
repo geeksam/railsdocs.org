@@ -48,7 +48,7 @@ into any web page. Putting it all together would give me the benefits
 of a wiki w/out the usual problems.
 
 
-## I'm adding wiki features to the Jekyll-Bootstrap theme ##
+## Adding wiki features to the Jekyll-Bootstrap theme ##
 
 I'm putting in the features that makes wikis friendly and hooking them
 all up to Github to do the work. For example, each page has a
