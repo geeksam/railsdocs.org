@@ -16,6 +16,41 @@ p, li {
 	line-height: 22.4px;
 }
 
+p, ul {
+	margin-bottom: 0.8em;
+}
+
+
+/**
+ ** Header vertical spacing
+ **/
+h2, h3 {
+	margin-bottom: 20px;
+	padding-top:   10px;
+}
+
+h2:first-child, h3:first-child {
+	padding-top: 0;
+}
+
+
+
+/**
+ ** Images in posts
+ **/
+p.post-image {
+	text-align: center;
+	margin: 20px 0;
+}
+
+p.post-image > img {
+	padding: 7px;
+	background: white;
+	border: 1px solid #ccc;
+}
+
+
+
 .nav > li, .tag_box a {
 	font-family: "News Cycle", "Arial Narrow Bold", sans-serif;
 }

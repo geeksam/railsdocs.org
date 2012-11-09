@@ -55,14 +55,18 @@ all up to Github to do the work. For example, each page has a
 familiar-looking button bar. Here's
 [Tutorials](/pages/tutorials.html):
 
-![Edit Button](/images/unwiki-button-bar-screenshot.png)
+<p class="post-image">
+	<img src="/images/unwiki-button-bar-screenshot.png" alt="The unwiki button-bar">
+</p>
 
-The `Edit` button links directly to a Github web editor opened with
-the page's text. If you've already created your free Github account
-and are logged in,
-[this is what you'll see](https://github.com/dogweather/railsdocs.org/edit/gh-pages/pages/tutorials.md):
+The `Edit` button links directly to a Github web editor opened with the page's
+[markdown](http://daringfireball.net/projects/markdown/syntax) text. If you've already created your free
+Github account and are logged in, [this is what you'll
+see](https://github.com/dogweather/railsdocs.org/edit/gh-pages/pages/tutorials.md):
 
-![Page Editor](/images/edit-window-screenshot.png)
+<p class="post-image">
+	<img alt="Github Page Editor" src="/images/edit-window-screenshot.png">
+</p>
 
 The key difference here compared to a wiki is that the changes aren't
 immediately live. There's a publication workflow in place. Clicking
