@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Tutorials"
-filename: "pages/tutorials.md"
+verbose_title: "Ruby and Rails Tutorials"
 description: "Tutorials and guides for learning Ruby and Rails"
+filename: "pages/tutorials.md"
 ---
 {% include JB/setup %}
 

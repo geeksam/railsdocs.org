@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+verbose_title: About railsdocs.org
 description: ""
 group: navigation
 ---

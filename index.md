@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rails Reference
+verbose_title: Ruby on Rails Reference Docs
 tagline: A TOC for the Docs
 filename: index.md
 description: "A community-edited list of the most useful API docs."
