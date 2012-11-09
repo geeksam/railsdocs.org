@@ -5,9 +5,19 @@
  * Purple = #841c4a
  */
 
-html, body, .navbar, .navbar-inner {
+
+/** 
+ ** Page bg colors 
+ **/
+html, body {
   background: #f7f7f7;
 }
+
+.navbar, .navbar-inner {
+  background: #eee;
+}
+
+
 
 p, li {
 	color: #595959;
@@ -22,7 +32,7 @@ p, ul {
 
 
 /**
- ** Header vertical spacing
+ ** Headers vertical spacing
  **/
 h2, h3 {
 	margin-bottom: 20px;
@@ -126,6 +136,9 @@ a:hover {
 .date {
 	margin-bottom: 1em;
 }
+
+
+/** TODO: Combine these with the h* entries above **/
 
 h2 {
 	margin-top: 0.5em;
