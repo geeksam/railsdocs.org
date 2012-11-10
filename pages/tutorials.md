@@ -14,8 +14,8 @@ filename: "pages/tutorials.md"
 It's not fancy, but it's written extremely well. If you have a Mac you
 can get started easily.
 
-[Code School / Learn Ruby in a Browser](http://tryruby.org/levels/1/challenges/0)  
-You really can learn to program, and with Ruby, right in the web
+[Try Ruby](http://tryruby.org/levels/1/challenges/0)  
+Learn ruby in a browser. You really can learn to program, and with Ruby, right in the web
 browser. Enter "help" and you'll get a great 15-minute introduction.
 
 
