@@ -26,7 +26,7 @@ is an excellent chart that's just the facts. Great if you're coming
 from another language.
 
 [Ruby in Twenty Minutes](http://www.ruby-lang.org/en/documentation/quickstart/)  
-is a decent in tutorial form.
+in tutorial form.
 
 [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)  
 is a great online book, still in tutorial form.
