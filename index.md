@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rails API
-verbose_title: Ruby on Rails API Docs
+verbose_title: Ruby on Rails API Library Reference Docs
 tagline: Hand-picked links
 filename: index.md
 description: "A community-edited list of the most useful API docs."
@@ -16,7 +16,7 @@ description: "A community-edited list of the most useful API docs."
   <h4>Heads up!</h4>
   These are reference docs.
   <!-- How do we do an internal page link in Jekyll? -->
-  Looking for <a href="/pages/tutorials.html">tutorials and guides</a>?
+  Looking for <a href="/pages/tutorials.html">tutorials</a>?
 </div>
 
 

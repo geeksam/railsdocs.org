@@ -41,4 +41,8 @@ The RailsGuides are an excellent resource. Part tutorial, part API
 documentation. Use these to get started as well as to answer advanced
 questions.
 
-
+[Rails for Zombies](http://railsforzombies.org/)  
+This is pretty cool. Besides the creative presentation (zombies), the
+teaching method is unique: it doesn't merely "feed you
+facts". Instead, it leads you down a path of figuring things out for
+yourself.
