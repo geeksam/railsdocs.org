@@ -40,3 +40,7 @@ is a great online book, still in tutorial form.
 The RailsGuides are an excellent resource. Part tutorial, part API
 documentation. Use these to get started as well as to answer advanced
 questions.
+
+
+## Capistrano ##
+

@@ -45,6 +45,10 @@ description: "A community-edited list of the most useful API docs."
 <small>beginning_of_day, past?, in_time_zone...</small>
 
 
+## Capistrano ##
+
+
+
 ## RSpec ##
 [Core Matchers](https://www.relishapp.com/rspec/rspec-expectations/v/2-11/docs/built-in-matchers)  
 <small>should, should be, should include...</small>

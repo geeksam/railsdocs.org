@@ -2,34 +2,30 @@
   <h1>
     {{ page.title }} {% if page.tagline %} 
     <small>{{ page.tagline }}</small>{% endif %}
-  </h1>
-  <div style="margin-top: 0.5em; margin-bottom: 0.5em;">
-    {% if page.filename %}
+    <div style="float: right">
+      {% if page.filename %}
       <!-- 
         -- Generate the link to the file in the Github
         -- repo. TODO: Remove the need for the
         -- explicit page.filename attribute in the
         -- page file.
         -->
-	  <div class="btn-toolbar">
-	      <div class="btn-group">
-		      <a href="https://github.com/dogweather/railsdocs.org/edit/gh-pages/{{page.filename}}" class="btn btn-mini"><i class="icon-edit"></i> Edit</a>
-		      <a href="https://github.com/dogweather/railsdocs.org/blame/gh-pages/{{page.filename}}" class="btn btn-mini"><i class="icon-user"></i> View Who Wrote What</a>
-		      <a href="https://github.com/dogweather/railsdocs.org/commits/gh-pages/{{page.filename}}" class="btn btn-mini"><i class="icon-time"></i> View History</a>
-	      </div>
-	  </div>
-		<!-- Testing which attributes are accessible -->
-		<!-- <p>basename {{page.basename}}</p>
-		<p>name {{page.name}}</p>
-		<p>dir {{page.dir}}</p>
-		<p>base {{page.base}}</p>
-		<p>output_ext {{page.output_ext}}</p>
-		<p>permalink {{page.permalink}}</p>
-
-		<p>filename {{page.filename}}</p>
-		<p>url {{page.url}}</p> -->
-    {% endif %}
-  </div>
+      <a href="https://github.com/dogweather/railsdocs.org/edit/gh-pages/{{page.filename}}" class="btn"><i class="icon-edit"></i> Edit</a>
+      <a href="https://github.com/dogweather/railsdocs.org/blame/gh-pages/{{page.filename}}" class="btn"><i class="icon-user"></i> Who Wrote What?</a>
+      <a href="https://github.com/dogweather/railsdocs.org/commits/gh-pages/{{page.filename}}" class="btn"><i class="icon-time"></i> History</a>
+      <!-- Testing which attributes are accessible -->
+      <!-- <p>basename {{page.basename}}</p>
+	   <p>name {{page.name}}</p>
+      <p>dir {{page.dir}}</p>
+      <p>base {{page.base}}</p>
+      <p>output_ext {{page.output_ext}}</p>
+      <p>permalink {{page.permalink}}</p>
+      
+      <p>filename {{page.filename}}</p>
+      <p>url {{page.url}}</p> -->
+      {% endif %}
+    </div>
+  </h1>
 </div>
 
 <div class="row-fluid">
