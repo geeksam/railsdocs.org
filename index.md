@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rails API
-verbose_title: Ruby on Rails API Library Reference Docs
+verbose_title: Rails Docs - Wikified Tutorials and API Listing
 tagline: Hand-picked links
 filename: index.md
 description: "A community-edited list of the most useful API docs."
