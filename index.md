@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Rails Reference
-verbose_title: Ruby on Rails Reference Docs
-tagline: A TOC for the Docs
+title: Rails API
+verbose_title: Ruby on Rails API Docs
+tagline: Hand-picked links
 filename: index.md
 description: "A community-edited list of the most useful API docs."
 ---
@@ -43,9 +43,6 @@ description: "A community-edited list of the most useful API docs."
 ## Important Classes ##
 [DateTime](http://api.rubyonrails.org/classes/DateTime.html)  
 <small>beginning_of_day, past?, in_time_zone...</small>
-
-
-## Capistrano ##
 
 
 

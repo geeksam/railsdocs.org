@@ -42,5 +42,3 @@ documentation. Use these to get started as well as to answer advanced
 questions.
 
 
-## Capistrano ##
-
