@@ -41,6 +41,10 @@ description: "A community-edited list of the most useful API docs."
 
 
 ## Important Classes ##
+[Request](http://api.rubyonrails.org/classes/ActionDispatch/Request.html)  
+<small>get?, post?, ip...</small>  
+<small>CAVEAT: there are apparently more methods which aren't listed here, such as request.domain.</small>
+
 [DateTime](http://api.rubyonrails.org/classes/DateTime.html)  
 <small>beginning_of_day, past?, in_time_zone...</small>
 
