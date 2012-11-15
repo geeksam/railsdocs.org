@@ -39,8 +39,9 @@ h2, h3 {
 	padding-top:   10px;
 }
 
-h2:first-child, h3:first-child {
+h2:first-of-type, h3:first-of-type {
 	padding-top: 0;
+	margin-top: 0;
 }
 
 
@@ -70,10 +71,6 @@ p.post-image > img {
 }
 
 
-.alert > h4 {
-	margin-bottom: 0.4em;
-	color: inherit;
-}
 
 a {
 	color: #9c3521;
@@ -84,14 +81,26 @@ a:hover {
 }
 
 
-.alert > a {
+
+/**
+ ** Alerts
+ **/
+.alert h4 {
+	margin-bottom: 0.4em;
+	color: inherit;
+}
+
+.alert a {
 	color: inherit;
 	text-decoration: underline;
 }
 
-.alert > a:hover {
+.alert a:hover {
 	color: #9c3521;
 }
+
+
+
 
 /* tag_box ======================================================== */
 
@@ -150,4 +159,10 @@ h2:first-child {
 
 h4 {
 	margin-top: 0.5em;
+}
+
+
+.right-floating-column {
+	float: right;
+	width: 50%;
 }

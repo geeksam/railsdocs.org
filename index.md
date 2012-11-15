@@ -16,7 +16,7 @@ description: "A community-edited list of the most useful API docs."
   <h4>Heads up!</h4>
   These are reference docs.
   <!-- How do we do an internal page link in Jekyll? -->
-  Looking for <a href="/pages/tutorials.html">tutorials</a>?
+  Looking for <strong><a href="/pages/tutorials.html">tutorials</a></strong>?
 </div>
 
 
