@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Where in the world is Rails request?"
+title: "Where in the World is Rails Request?"
 description: ""
-category: 
-tags: []
+category: where-is
+tags: [rails, api]
 ---
 {% include JB/setup %}
 
