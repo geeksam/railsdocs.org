@@ -165,4 +165,5 @@ h4 {
 .right-floating-column {
 	float: right;
 	width: 50%;
+	padding-left: 2em;
 }
