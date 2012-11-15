@@ -17,7 +17,6 @@ methods on request. But I've hit a dead end with the generated docs:
   (linked from the Guides) doesn't list `domain`.
   
 * [Rack::Request](http://rack.rubyforge.org/doc/classes/Rack/Request.html) 
-  (the parent object, unfortunately not hyperlinked from the Rails API) also 
-  does not mention the `domain` method.
+  (the parent object) also does not mention the `domain` method.
   
 Any feedback is appreciated; I want to add this to the [collection of good API links](/).
