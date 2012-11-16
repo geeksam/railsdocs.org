@@ -52,6 +52,8 @@ from another language.
 in tutorial form.
 
 [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)  
-is a great online book, still in tutorial form.
+a decent online book, although not perfect. It would benefit from 
+a stronger editorial voice. For example, features and libraries (like Net::HTTP)
+are presented without advising which to avoid.
 
 
