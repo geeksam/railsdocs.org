@@ -60,7 +60,7 @@ See also: <a href="http://api.rubyonrails.org/classes/ActionView/Helpers/DateHel
 
 
 ## Git ##
-[Cheat Sheet](http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png)  
-<small>Revert, branch, update... </small>
+[Cheat Sheet](http://cheat.errtheblog.com/s/git)  
+<small>Reverting, Branching, Cherry-picking... </small>
 
 
