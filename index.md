@@ -60,7 +60,7 @@ See also: <a href="http://api.rubyonrails.org/classes/ActionView/Helpers/DateHel
 
 
 ## Git ##
-[Cheat Sheet](http://cheat.errtheblog.com/s/git)  
+(Need a git link or two here!)   
 <small>Reverting, Branching, Cherry-picking... </small>
 
 
