@@ -60,6 +60,7 @@ See also: <a href="http://api.rubyonrails.org/classes/ActionView/Helpers/DateHel
 
 
 ## Git ##
+[Think Like (a) Git](http://think-like-a-git.net), a guide to help advanced beginners internalize Git's weird but powerful way of looking at the world.
 (Need a git link or two here!)   
 <small>Reverting, Branching, Cherry-picking... </small>
 
